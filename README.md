@@ -3,6 +3,13 @@
 > **📌 Project Overview**  
 > This is a demonstration project showing how to use Puppeteer for End-to-End (E2E) testing. Puppeteer is a Node.js library that provides a high-level API to control headless Chrome or Chromium over the DevTools Protocol. In this project, Puppeteer is used to automate the process of testing web applications by simulating user interactions such as clicking buttons, filling out forms, and navigating through pages.
 
+> ---
+
+> **🔍 More Information**
+> - [Puppeteer Documentation](https://pptr.dev/) - Official documentation for Puppeteer.
+> - [GitHub Repository](https://github.com/CuB1z/Puppetteer-Introduction) - Source code for this project.
+> - [Node.js](https://nodejs.org/) - JavaScript runtime built on Chrome's V8 engine. 
+
 ---
 
 ## 📦 Dependencies
