@@ -1,0 +1,15 @@
+{
+  "name": "puppetteer-introduction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./src/tests/index.test.js"
+  },
+  "keywords": [],
+  "author": "CuB1z",
+  "license": "ISC",
+  "description": "A simple introduction to Puppeteer, a Node.js library that provides a high-level API over the Chrome DevTools Protocol. It is primarily used for headless browser testing and web scraping.",
+  "dependencies": {
+    "puppeteer": "^24.7.0"
+  }
+}
