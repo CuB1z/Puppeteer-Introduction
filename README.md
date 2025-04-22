@@ -35,7 +35,7 @@
 > 
 > 1. Clone this repository:
 >    ```bash
->    git clone https://github.com/CuB1z/Puppetteer-Introduction.git puppeteer-introduction
+>    git clone https://github.com/CuB1z/Puppeteer-Introduction.git puppeteer-introduction
 >    ```
 > 2. Navigate to the project directory:
 >    ```bash
