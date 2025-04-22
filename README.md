@@ -53,6 +53,25 @@
 
 ---
 
+## 🧪 Running Tests
+
+> **🚀 Steps to Run Tests**
+> 
+> Once you have installed the dependencies, you can run the tests included in this project by following these steps:
+> 
+> 1. Ensure all dependencies are installed:
+>    ```bash
+>    npm install
+>    ```
+> 2. Run the test script:
+>    ```bash
+>    npm run test
+>    ```
+> 
+> This will execute the test cases defined in the project, leveraging Puppeteer to automate browser interactions. Check the console output for test results and any potential errors.
+
+---
+
 ## 🧑‍💻 Usage
 
 > **⚙️ How to Use**
