@@ -1,11 +1,13 @@
 # Puppeteer Introduction 🚀
 
-> **📌 Project Overview**  
+> **📌 Project Overview**
+>
 > This is a demonstration project showing how to use Puppeteer for End-to-End (E2E) testing. Puppeteer is a Node.js library that provides a high-level API to control headless Chrome or Chromium over the DevTools Protocol. In this project, Puppeteer is used to automate the process of testing web applications by simulating user interactions such as clicking buttons, filling out forms, and navigating through pages.
 
 > ---
 
 > **🔍 More Information**
+
 > - [Puppeteer Documentation](https://pptr.dev/) - Official documentation for Puppeteer.
 > - [GitHub Repository](https://github.com/CuB1z/Puppetteer-Introduction) - Source code for this project.
 > - [Node.js](https://nodejs.org/) - JavaScript runtime built on Chrome's V8 engine. 
@@ -22,7 +24,7 @@
 > | 🤖 **Puppeteer**  | Node.js library for controlling Chrome/Chromium via DevTools Protocol. |
 > | 🟢 **Node.js**    | JavaScript runtime built on Chrome's V8 engine. |
 > | 📦 **npm**        | Node's package manager for installing dependencies. |
-
+> 
 > Make sure you have all these installed to enjoy smooth and powerful browser automation! 🚦✨
 
 ---
@@ -49,7 +51,8 @@
 > ---
 
 > **⚠️ Warnings**
-> - If you encounter any issues during installation, try setting up `SET PUPPETEER_SKIP_DOWNLOAD=true` in your environment variables to skip the Chromium download and use a locally installed version instead.
+> 
+> If you encounter any issues during installation, try setting up `SET PUPPETEER_SKIP_DOWNLOAD=true` in your environment variables to skip the Chromium download and use a locally installed version instead.
 
 ---
 
@@ -115,6 +118,7 @@
 ## 📝 License
 
 > **📄 License Information**
+>
 > This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
