@@ -70,6 +70,20 @@
 > 
 > This will execute the test cases defined in the project, leveraging Puppeteer to automate browser interactions. Check the console output for test results and any potential errors.
 
+> ---
+
+> **⚠️ Warnings**
+> 
+> If you are running tests in a Linux environment, you may need to update the following line in your test scripts
+> 
+> ```javascript
+> // From this:
+> const browser = await puppeteer.launch({ headless: false });
+> 
+> // To this:
+> const browser = await puppeteer.launch({ headless: true, args: ['--no-sandbox', '--disable-setuid-sandbox'] });
+> ```
+
 ---
 
 ## 🧑‍💻 Usage
