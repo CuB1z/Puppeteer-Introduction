@@ -7,7 +7,7 @@
 > ---
 
 > **🔍 More Information**
-
+>
 > - [Puppeteer Documentation](https://pptr.dev/) - Official documentation for Puppeteer.
 > - [GitHub Repository](https://github.com/CuB1z/Puppetteer-Introduction) - Source code for this project.
 > - [Node.js](https://nodejs.org/) - JavaScript runtime built on Chrome's V8 engine. 
